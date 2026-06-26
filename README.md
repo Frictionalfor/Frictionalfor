@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.gif" width="100%" />
@@ -35,7 +36,7 @@ Networking
 Cybersecurity
 Open Source
 System Design
-```
+````
 
 ---
 
@@ -125,14 +126,35 @@ https://github.com/Frictionalfor/pendo-cli
 
 <div align="center">
 
-| Development | Systems | Learning |
-|------------|---------|----------|
-| React | Linux | Networking |
-| Next.js | Docker | Cybersecurity |
-| Node.js | Git | Security Research |
-| MongoDB | GitHub | CTFs |
+| Development | Systems | Learning          |
+| ----------- | ------- | ----------------- |
+| React       | Linux   | Networking        |
+| Next.js     | Docker  | Cybersecurity     |
+| Node.js     | Git     | Security Research |
+| MongoDB     | GitHub  | CTFs              |
 
 </div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/XR03Bk5Ya4/">
+<img src="https://leetcard.jacoblin.cool/XR03Bk5Ya4?theme=dark&font=Inter&ext=contest" />
+</a>
+
+</div>
+
+<br>
+
+```text
+Practicing Data Structures and Algorithms
+Solving problems consistently
+Improving problem-solving skills
+Preparing for technical interviews
+```
 
 ---
 
@@ -191,7 +213,7 @@ https://github.com/Frictionalfor/pendo-cli
 
 ## Current Focus
 
-```yaml
+
 Building:
   - Foder
   - CodeForge
@@ -206,19 +228,19 @@ Exploring:
   - Hack The Box
   - CTFs
   - Security Research
-```
+
 
 ---
 
 ## 2026 Roadmap
 
-- Build more than I consume
-- Improve networking knowledge
-- Create security-focused tools
-- Contribute to open source
-- Publish cybersecurity notes
-- Participate in CTFs
-- Keep learning in public
+* Build more than I consume
+* Improve networking knowledge
+* Create security-focused tools
+* Contribute to open source
+* Publish cybersecurity notes
+* Participate in CTFs
+* Keep learning in public
 
 ---
 
@@ -243,6 +265,10 @@ https://swanandgajkeshwar.vercel.app
 GitHub
 
 https://github.com/Frictionalfor
+
+LeetCode
+
+https://leetcode.com/u/XR03Bk5Ya4/
 
 ---
 
@@ -274,3 +300,4 @@ The goal is to understand a little more than yesterday.
 ### Build.
 
 </div>
+```
