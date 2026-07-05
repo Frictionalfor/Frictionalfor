@@ -118,10 +118,71 @@ https://github.com/Frictionalfor/pendo-cli
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,c,cpp,linux,docker,git,github,vercel,vscode&perline=7" />
+### Languages
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript" />
+
+### Frontend
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="42" title="Next.js" />
+
+### Backend
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/white" height="42" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" title="Firebase" />
+
+### Systems
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" title="Linux" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="42" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="42" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" height="42" title="GitHub" />
+
+### Cloud
+
+  <img src="https://cdn.simpleicons.org/vercel/white" height="42" title="Vercel" />
+  <img src="https://cdn.simpleicons.org/railway/white" height="42" title="Railway" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="42" title="Render" />
+
+### Database
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="42" title="Oracle" />
+
+### IoT
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" title="Arduino" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="42" title="ESP-32" />
+
+### Security
+
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="42" title="Wireshark" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="42" title="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/cisco/00BCEB" height="42" title="Networking" />
+
+### AI
+
+  <img src="https://cdn.simpleicons.org/claude/white" height="42" title="Claude" />
+  <img src="https://cdn.simpleicons.org/ollama/white" height="42" title="Ollama" />
+
+### Tools
+
+  <img src="https://cdn.simpleicons.org/github/white" height="42" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VS Code" />
 
 </div>
-
 <br>
 
 <div align="center">
