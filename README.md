@@ -62,7 +62,7 @@ https://foder.vercel.app
 
 ### CodeForge
 
-A platform for building, experimenting and shipping ideas.
+Code Education Reimagined — full-stack learning platform.
 
 **Live**
 
@@ -76,7 +76,7 @@ https://codeforge-tawny.vercel.app/
 
 ### SoutaOS
 
-An operating-system-inspired web experience.
+Productivity workspace for distraction-free deep work.
 
 **Live**
 
