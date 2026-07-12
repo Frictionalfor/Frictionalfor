@@ -27,6 +27,26 @@ This profile documents that journey.
 
 ---
 
+## Building Krow
+
+<div align="center">
+
+<img src="https://github.com/krowft.png" width="80" />
+
+</div>
+
+Krow is a software company creating innovative tools, intelligent systems, and products built with precision and purpose.
+
+I'm building Krow as the foundation for everything I create. It represents my long-term vision of building meaningful software through engineering, curiosity, and continuous learning.
+
+Although still in its early stage, Krow is focused on creating developer tools, intelligent systems, cybersecurity software, and open-source projects that solve real problems.
+
+Organization:
+
+https://github.com/krowft
+
+---
+
 ## What I'm Exploring
 
 ```text
@@ -43,6 +63,20 @@ System Design
 ## Things I've Built
 
 <table>
+<tr>
+<td width="100%">
+
+### Krow
+
+Software company focused on building innovative tools, intelligent systems, and products built with precision and purpose.
+
+Organization:
+
+https://github.com/krowft
+
+</td>
+</tr>
+
 <tr>
 <td width="50%">
 
@@ -276,6 +310,7 @@ Preparing for technical interviews
 
 
 Building:
+  - Krow
   - Foder
   - CodeForge
   - ReconCLI
@@ -295,6 +330,7 @@ Exploring:
 
 ## 2026 Roadmap
 
+* Build Krow into a software company with meaningful products.
 * Build more than I consume
 * Improve networking knowledge
 * Create security-focused tools
@@ -308,6 +344,7 @@ Exploring:
 ## Archive
 
 ```text
+2026.07.xx  Founded Krow
 2026.06.xx  Improving GitHub Profile
 2026.06.xx  Working on ReconCLI
 2026.06.xx  Building Cybersecurity Foundation
@@ -326,6 +363,10 @@ https://swanandgajkeshwar.vercel.app
 GitHub
 
 https://github.com/Frictionalfor
+
+Krow
+
+https://github.com/krowft
 
 LeetCode
 
