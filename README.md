@@ -7,10 +7,10 @@
 
 # Frictional
 
-### Building software. Learning systems. Exploring security.
+### Founder of Krow. Building software with purpose. Learning systems. Exploring cybersecurity.
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2500&color=9CA3AF&center=true&vCenter=true&width=800&lines=Computer+Engineering+%26+IoT+Student;Full+Stack+Developer;Cybersecurity+Learner;Linux+Enthusiast;Building+things+that+refuse+to+leave+my+head." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2500&color=9CA3AF&center=true&vCenter=true&width=800&lines=Founder+of+Krow;Computer+Engineering+%26+IoT+Student;Full+Stack+Developer;Cybersecurity+Learner;Linux+Enthusiast" />
 </p>
 
 </div>
@@ -19,11 +19,11 @@
 
 ## Why I Build
 
-I build because curiosity refuses to stay quiet.
+I build because understanding systems is more interesting than using them.
 
-What started with web development slowly became an obsession with understanding how systems actually work — from applications and servers to networks and security.
+What started as web development slowly turned into wanting to know how things actually work. How a request reaches a server. How a packet finds its path. How a vulnerability hides in plain sight.
 
-This profile documents that journey.
+This profile documents that shift. Not a portfolio. A record of what I'm learning, what I'm building, and what I still haven't figured out.
 
 ---
 
@@ -33,17 +33,21 @@ This profile documents that journey.
 
 <img src="https://github.com/krowft.png" width="80" />
 
+<br>
+
+**Founder:** Swanand Gajkeshwar (Frictional)
+
+<br>
+
+[GitHub](https://github.com/krowft) • [Website](https://krow-mocha.vercel.app/)
+
 </div>
 
-Krow is a software company creating innovative tools, intelligent systems, and products built with precision and purpose.
+Krow exists because I needed a name for what comes next — not a username, but a real company behind every product I build.
 
-I'm building Krow as the foundation for everything I create. It represents my long-term vision of building meaningful software through engineering, curiosity, and continuous learning.
+The goal is straightforward: build tools and systems that are precise, intentional, and built to last. Developer tools. Intelligent systems. Cybersecurity software. Open-source projects. Everything under one roof.
 
-Although still in its early stage, Krow is focused on creating developer tools, intelligent systems, cybersecurity software, and open-source projects that solve real problems.
-
-Organization:
-
-https://github.com/krowft
+Krow is not a project. It is the company behind every future product I ship.
 
 ---
 
@@ -56,27 +60,13 @@ Networking
 Cybersecurity
 Open Source
 System Design
-````
+```
 
 ---
 
-## Things I've Built
+## Projects
 
 <table>
-<tr>
-<td width="100%">
-
-### Krow
-
-Software company focused on building innovative tools, intelligent systems, and products built with precision and purpose.
-
-Organization:
-
-https://github.com/krowft
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
@@ -148,6 +138,18 @@ https://github.com/Frictionalfor/pendo-cli
 
 ---
 
+## Current Mission
+
+```text
+Build Krow from the ground up.
+Ship meaningful software.
+Master cybersecurity.
+Contribute to open source.
+Document everything.
+```
+
+---
+
 ## Technical Stack
 
 <div align="center">
@@ -189,11 +191,6 @@ https://github.com/Frictionalfor/pendo-cli
   <img src="https://cdn.simpleicons.org/railway/white" height="42" title="Railway" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="42" title="Render" />
 
-### Database
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="42" title="Oracle" />
-
 ### IoT
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" title="Arduino" />
@@ -212,8 +209,6 @@ https://github.com/Frictionalfor/pendo-cli
 
 ### Tools
 
-  <img src="https://cdn.simpleicons.org/github/white" height="42" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VS Code" />
 
 </div>
@@ -296,102 +291,81 @@ Preparing for technical interviews
 ## Live Status
 
 ```diff
-+ Building Projects
-+ Learning Networking
-+ Exploring Cybersecurity
-+ Shipping Ideas
++ Building Krow
++ Shipping products
++ Learning cybersecurity
++ Writing open-source software
 
-! Running on Arch Linux
+! Powered by Arch Linux
 ```
 
 ---
 
 ## Current Focus
 
+Building
+────────
+Krow
+Foder
+ReconCLI
 
-Building:
-  - Krow
-  - Foder
-  - CodeForge
-  - ReconCLI
+Learning
+─────────
+Networking
+Cybersecurity
+Linux Internals
 
-Learning:
-  - Networking
-  - Linux Internals
-  - Web Security
-
-Exploring:
-  - Hack The Box
-  - CTFs
-  - Security Research
-
+Exploring
+──────────
+Reverse Engineering
+CTFs
+Security Research
 
 ---
 
-## 2026 Roadmap
+## 2026 Goals
 
-* Build Krow into a software company with meaningful products.
-* Build more than I consume
-* Improve networking knowledge
-* Create security-focused tools
-* Contribute to open source
-* Publish cybersecurity notes
-* Participate in CTFs
-* Keep learning in public
+- Grow Krow into a software company with meaningful products
+- Ship products consistently
+- Contribute to open source
+- Master cybersecurity fundamentals
+- Dive into systems programming
+- Strengthen networking knowledge
+- Write technical content and documentation
 
 ---
 
 ## Archive
 
 ```text
-2026.07.xx  Founded Krow
-2026.06.xx  Improving GitHub Profile
-2026.06.xx  Working on ReconCLI
-2026.06.xx  Building Cybersecurity Foundation
-2026.06.xx  Built Foder
-2026.06.xx  Started Cybersecurity Journey
+2026.07 Founded Krow
+2026.06 Started Cybersecurity Journey
+2026.06 Built Foder
 ```
 
 ---
 
 ## Elsewhere
 
-Portfolio
-
-https://swanandgajkeshwar.vercel.app
-
-GitHub
-
-https://github.com/Frictionalfor
-
-Krow
-
-https://github.com/krowft
-
-LeetCode
-
-https://leetcode.com/u/XR03Bk5Ya4/
+| Platform | Link |
+| --- | --- |
+| Portfolio | https://swanandgajkeshwar.vercel.app |
+| Krow Website | https://krow-mocha.vercel.app/ |
+| Krow GitHub | https://github.com/krowft |
+| GitHub | https://github.com/Frictionalfor |
+| LeetCode | https://leetcode.com/u/XR03Bk5Ya4/ |
 
 ---
 
-<details>
-<summary><b>Open</b></summary>
+## Philosophy
 
-<br>
+Build with intention.
 
-Still learning.
+Learn continuously.
 
-Still building.
+Stay curious.
 
-Still curious.
-
-The goal isn't to know everything.
-
-The goal is to understand a little more than yesterday.
-
-</details>
-
----
+Ship what matters.
 
 <div align="center">
 
@@ -402,4 +376,3 @@ The goal is to understand a little more than yesterday.
 ### Build.
 
 </div>
-```
